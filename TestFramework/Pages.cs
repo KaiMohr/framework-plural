@@ -3,25 +3,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using OpenQA.Selenium.Support;
+using OpenQA.Selenium.Support.PageObjects;
 
 namespace TestFramework
 {
     public static class Pages
     {
-        public static class HomePage
-        {
-            static string Url = "http://pluralsight.com";
-            private static string PageTitle = "Unlimited Online Developer, IT and Cyber Security Training | Pluralsight";
-
-            public static void Goto()
+        public static HomePage HomePage {
+            get
             {
-                Browser.Goto(Url);
+                var homePage = new HomePage();
+#pragma warning disable CS0618 // Type or member is obsolete
+                PageFactory.InitElements(Browser.Driver, homePage);
+#pragma warning restore CS0618 // Type or member is obsolete
+                return homePage;
             }
 
-            public static bool IsAt()
-            {
-           return Browser.Title == PageTitle;
-            }
         }
     }
 }

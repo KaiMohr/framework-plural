@@ -16,3 +16,5 @@ C:\Users\kaimoh\Documents\temp\TestFramework\Tests\bin\Debug\WebDriver.xml
 C:\Users\kaimoh\Documents\temp\TestFramework\Tests\obj\Debug\Tests.csproj.CopyComplete
 C:\Users\kaimoh\Documents\temp\TestFramework\Tests\obj\Debug\Tests.dll
 C:\Users\kaimoh\Documents\temp\TestFramework\Tests\obj\Debug\Tests.pdb
+C:\Users\kaimoh\Documents\temp\TestFramework\Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\kaimoh\Documents\temp\TestFramework\Tests\bin\Debug\WebDriver.Support.xml
