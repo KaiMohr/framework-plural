@@ -1,0 +1,11 @@
+C:\Users\kaimoh\Documents\temp\TestFramework\TestFramework\bin\Debug\TestFramework.dll
+C:\Users\kaimoh\Documents\temp\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+C:\Users\kaimoh\Documents\temp\TestFramework\TestFramework\bin\Debug\WebDriver.dll
+C:\Users\kaimoh\Documents\temp\TestFramework\TestFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\kaimoh\Documents\temp\TestFramework\TestFramework\bin\Debug\WebDriver.xml
+C:\Users\kaimoh\Documents\temp\TestFramework\TestFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\kaimoh\Documents\temp\TestFramework\TestFramework\obj\Debug\TestFramework.csprojAssemblyReference.cache
+C:\Users\kaimoh\Documents\temp\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CoreCompileInputs.cache
+C:\Users\kaimoh\Documents\temp\TestFramework\TestFramework\obj\Debug\TestFramework.csproj.CopyComplete
+C:\Users\kaimoh\Documents\temp\TestFramework\TestFramework\obj\Debug\TestFramework.dll
+C:\Users\kaimoh\Documents\temp\TestFramework\TestFramework\obj\Debug\TestFramework.pdb
